@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\bin\Debug\New Staff.exe.config
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\bin\Debug\New Staff.exe
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\bin\Debug\New Staff.pdb
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New Staff.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New_Staff.Add_Staff.resources
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New_Staff.Form1.resources
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New_Staff.Properties.Resources.resources
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New_Staff.View_Staff.resources
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New Staff.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New Staff.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New Staff.exe
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New Staff.pdb
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New_Staff.Delete_Staff.resources
+C:\Users\Dell\Desktop\C# Project\New Staff\New Staff\obj\Debug\New_Staff.UpdatetheStaff.resources
